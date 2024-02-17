@@ -1,4 +1,4 @@
-# Formula 1 Dataset Analysis
+# Accelerating Insights - A Comprehensive Analysis of Formula 1 Racing History
 
 ## Overview
 This project focuses on analyzing a comprehensive dataset containing Formula 1 racing data from 1953 to present. The dataset includes information on drivers, constructors, race results, lap times, pit stops, and more. The goal of this project is to explore the dataset, gain insights into Formula 1 racing history, and create impactful visualizations.
